@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#Su nuovo branch
 # Copia tutti i file da una cartella A a una cartella B
 # Uso: script.sh [-n|--dry-run] [-v|--verbose] SRC_DIR DEST_DIR
 # Opzioni:
